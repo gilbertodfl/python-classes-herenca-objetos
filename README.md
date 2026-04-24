@@ -1,9 +1,16 @@
 
 # Estudo didático sobre Orientação à Objetos abordando Class, Inheritance, Polymorphism, Override
+
+## Orientação a Objetos Completo - Classes e Métodos
+
+
 Aqui é um resumo dos principais pontos da orientação objeto em python. 
 Sei que existem mais coisas, mas aqui é um começo bom. 
 
 Comece pela pasta Básico de Classes e à medida que for entendendo, use as demais. 
+# Assista o video 
+https://www.hashtagtreinamentos.com/classes-no-python
+
 
 # como rodar no comando de linha
 

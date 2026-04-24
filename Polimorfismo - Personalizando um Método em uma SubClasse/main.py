@@ -19,6 +19,7 @@ from Agencia import AgenciaPremium, AgenciaComum, AgenciaVirtual
 print('Agências : agencia_premium_especial')
 
 agencia_premium_especial = AgenciaPremium(22221111, 15888888888888)
+adicionar_cliente1 = agencia_premium_especial.adicionar_cliente('Gilberto', 15000000000, 50000000)
 print(agencia_premium_especial.caixa)
 
 
